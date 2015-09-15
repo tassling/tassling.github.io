@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tassling.github.io
+title: tassling
+paginate: 5
